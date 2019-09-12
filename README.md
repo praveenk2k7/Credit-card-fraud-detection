@@ -28,9 +28,11 @@ five algorithms are:
 	
 **Results**
 
-![image](https://user-images.githubusercontent.com/44360746/64770076-10be9880-d57f-11e9-9f90-30d68ed0bf6b.png)
+![image](https://user-images.githubusercontent.com/44360746/64770330-8f1b3a80-d57f-11e9-84ae-a7b1dec78d5e.png)
 
 As observed Random classifier performs better than other classifiers and also witht the less standard deviation in our experiments.
+
+Further, on testing the random classifier with balanced and imbalanced data, the classifier performed well in the balanced data while returning nearly 50% of the fraud transaction as normal transactions.
 
 
 	
